@@ -1,4 +1,4 @@
-## **CarbonScript **
+##  **CarbonScript **
 
 **CarbonScript** is an application that allows users to upload Python scripts, analyze the script for its contents, and calculate the CO2 emissions produced while executing the script. It also utilizes the Gemini AI model to extract insights from the Python script.
 
