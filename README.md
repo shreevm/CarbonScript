@@ -1,4 +1,4 @@
-# **CarbonScript **
+## **CarbonScript **
 
 **CarbonScript** is an application that allows users to upload Python scripts, analyze the script for its contents, and calculate the CO2 emissions produced while executing the script. It also utilizes the Gemini AI model to extract insights from the Python script.
 
@@ -39,7 +39,7 @@ Once you have the API key, replace the placeholder in the `app.py` file with you
 GOOGLE_API_KEY = 'YOUR_API_KEY_HERE'
 ```
 ---
-## **Backend Setup
+## **Backend Setup**
 
 Clone the repository or navigate to your existing project folder.
 
